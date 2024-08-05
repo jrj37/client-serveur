@@ -1,4 +1,4 @@
-#Fonctionnement
+# Fonctionnement
 -   On lance dans un terminal le serveur avec la commande:
     python3 serveur.py
 
