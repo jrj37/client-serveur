@@ -1,10 +1,14 @@
 # Fonctionnement
 -   On lance dans un terminal le serveur avec la commande:
+  
+  ```python
     python3 serveur.py
+  ```
 
 -   Puis on lance dans un autre terminal le client:
+  ```python
     python3 client.py
-
+  ```
 -   Dès que le client est connecté au serveur, un message s'affiche du côté serveur 
     pour dire que le client est connecté. De plus, tous les clients connectés reçoivent un message pour dire qu'un client s'est connecté.
 
